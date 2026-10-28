@@ -2226,6 +2226,9 @@ pages:
       groq:
         description: groq.com
         title: Groq
+      demonroute:
+        description: demonroute.com
+        title: DemonRoute
       featherless:
         description: featherless.ai
         title: Featherless AI
